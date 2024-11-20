@@ -1,12 +1,47 @@
-# Shika Wallet 
-
-Offline Crypto Wallet that builds credit score for the unbanked and under priviledged to get loans at lower rates and much more easily. With Auxiliary features like cross border payments with Crypto rails and simple Swap feature to swap to any crypto currency including BTC
-## Features
-1. Multi - party computation wallet with Account Abstraction to enable gasless offline tranasactions 
-2. Swapping features to swap to any crypto currency including BTC and send and receive those crypto currencies 
-3. Cross border payment : request for and receiving money from europe and America as well as send to nigeria 
+Shika Wallet 🌍
+Watch the Demo Video
+https://www.loom.com/share/ba567b4a077942b48bfceb950e62f34c?sid=e2176512-5bd8-47ca-ba6d-e57d2070f781
+(For direct playback in your README, GitHub currently doesn't support Loom embeds, so click to view.)
 
 
+
+Overview
+Shika Wallet is an Offline Crypto Wallet designed to empower the unbanked and underprivileged communities in Africa. It builds credit scores while enabling seamless cross-border payments and cryptocurrency swaps—all accessible offline through USSD.
+
+This transformative wallet infrastructure makes remittances and exchanges more inclusive and efficient, unlocking financial access for millions.
+
+Key Features
+Gasless Offline Transactions
+Built using multi-party computation (MPC) and Account Abstraction, Shika Wallet enables offline crypto transactions via USSD without requiring gas fees.
+
+Seamless Crypto Swaps
+Users can swap any ERC20 token or Bitcoin without needing internet access, providing flexibility for savings, payments, and investments.
+
+Cross-Border Payments
+
+Send and receive remittances between Africa, Europe, and America.
+Localized support for Nigeria to facilitate sending and receiving funds.
+Why USSD in Africa?
+In Africa, USSD technology is a lifeline for financial services, with high mobile penetration but limited access to smartphones and stable internet. Here’s some real-world context:
+
+Over 70% of mobile transactions in Africa occur via USSD.
+Countries like Ghana, Nigeria, and Kenya heavily rely on USSD for banking, bill payments, and money transfers due to its simplicity and accessibility.
+The World Bank reports that 57% of the population in Sub-Saharan Africa remains unbanked, underscoring the need for solutions like Shika Wallet.
+What We Built
+Offline Wallet Infrastructure
+
+An MPC-powered wallet system that securely stores and manages assets offline.
+Integrated with Capsule SDK and Alchemy to register user wallets on-chain.
+Offline Remittance and Exchange
+
+Leveraged the wallet to facilitate offline cryptocurrency swaps, including Bitcoin and ERC20 tokens.
+Enabled remittance services that are more affordable and accessible than traditional options.
+Impact
+Shika Wallet redefines accessibility:
+
+Empowers communities to access loans with lower rates by building their credit scores.
+Simplifies cross-border payments, reducing fees and time delays.
+Bridges the gap between traditional finance and decentralized finance (DeFi), bringing crypto to the unbanked.
 ## Quick Start
 
 ### 1. Clone repo
