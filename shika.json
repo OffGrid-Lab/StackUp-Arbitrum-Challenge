@@ -1,0 +1,10 @@
+{
+ 
+    "rp": {
+   
+      "id": "pending-gender-missouri-arabic.trycloudflare.com",
+      "origin": "https://pending-gender-missouri-arabic.trycloudflare.com/",
+      "name": "shika_wallet"
+    },
+    "policies":[]
+  }
